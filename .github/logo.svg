@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Auralis">
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="#ffffff" stroke="#e3e1ee" stroke-width="2" />
+  <path d="M15 50 32 14 49 50" fill="none" stroke="#1c1b22" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="32" cy="40" r="4.6" fill="#6558D3" />
+</svg>
